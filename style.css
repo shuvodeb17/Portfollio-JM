@@ -1,0 +1,82 @@
+.wrapper{
+
+    background-image: url("img/header-bg.png");
+}
+.left h2{
+    color: #EC4C7A;
+}
+button{
+    border: none;
+    padding: 7px 25px;
+    background: #EC4C7A;
+    color: #fff;
+    border-radius: 9px;
+    transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -o-transition: all 0.5s;
+}
+h4{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+button:hover{
+    background-color: #6d001f;
+    color: #fff;
+}
+.wrapper img{
+    width: 364px;
+}
+.imgcustomize img{
+    transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    border: 2px solid #dddd;
+}
+.imgcustomize img:hover{
+    transform: translateY(20px);
+    -webkit-transform: translateY(20px);
+    -moz-transform: translateY(20px);
+    -ms-transform: translateY(20px);
+    -o-transform: translateY(20px);
+    cursor: pointer;
+}
+.seectext span {
+    font-size: 64px;
+}
+.header-h2 span {
+    font-size: 60px;
+}
+.sefour .another-work {
+    margin-bottom: 144px;
+    margin-top: 50px;
+}
+.sefour .another-work4{
+    margin-top: 50px;
+}
+.navlgo {
+    font-size: 37px;
+    color: #EC4C7A;
+}
+.navbar h2 {
+    font-size: 24px;
+    color: #f35b21;
+}
+@media(max-width:768px){
+    .section3 img {
+        margin-left: 54px;
+    }
+}
+.cssbg{
+    background-image: url("img/image\ 16.png");
+    background-position: bottom center;
+    background-size: contain;
+    padding: 10px 10px;
+    background-repeat: no-repeat;
+}
+.left{
+    margin-top: 120px;
+}
